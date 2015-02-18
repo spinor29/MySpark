@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0mPackaging /Users/jongchinlin/Desktop/My_projects/Spark/word_count/target/scala-2.10/word-count-project_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	wordCountApp$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jongchinlin/Desktop/My_projects/Spark/word_count/target/scala-2.10/classes/wordCountApp$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	wordCountApp$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jongchinlin/Desktop/My_projects/Spark/word_count/target/scala-2.10/classes/wordCountApp$.class[0m
+[0m[[0mdebug[0m] [0m	wordCountApp$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jongchinlin/Desktop/My_projects/Spark/word_count/target/scala-2.10/classes/wordCountApp$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	wordCountApp$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jongchinlin/Desktop/My_projects/Spark/word_count/target/scala-2.10/classes/wordCountApp$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	wordCountApp.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jongchinlin/Desktop/My_projects/Spark/word_count/target/scala-2.10/classes/wordCountApp.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
