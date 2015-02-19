@@ -1,0 +1,29 @@
+[0m[[0minfo[0m] [0mPackaging /Users/jongchinlin/Desktop/My_projects/Spark/page_rank/target/scala-2.10/page-rank-project_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	pageRankApp$$anonfun$main$1$$anonfun$apply$mcVI$sp$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jongchinlin/Desktop/My_projects/Spark/page_rank/target/scala-2.10/classes/pageRankApp$$anonfun$main$1$$anonfun$apply$mcVI$sp$2.class[0m
+[0m[[0mdebug[0m] [0m	pageRankApp$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jongchinlin/Desktop/My_projects/Spark/page_rank/target/scala-2.10/classes/pageRankApp$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	pageRankApp$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jongchinlin/Desktop/My_projects/Spark/page_rank/target/scala-2.10/classes/pageRankApp$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	pageRankApp$$anonfun$main$1$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jongchinlin/Desktop/My_projects/Spark/page_rank/target/scala-2.10/classes/pageRankApp$$anonfun$main$1$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	pageRankApp$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jongchinlin/Desktop/My_projects/Spark/page_rank/target/scala-2.10/classes/pageRankApp$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	pageRankApp$$anonfun$main$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jongchinlin/Desktop/My_projects/Spark/page_rank/target/scala-2.10/classes/pageRankApp$$anonfun$main$2.class[0m
+[0m[[0mdebug[0m] [0m	pageRankApp$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jongchinlin/Desktop/My_projects/Spark/page_rank/target/scala-2.10/classes/pageRankApp$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	pageRankApp$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jongchinlin/Desktop/My_projects/Spark/page_rank/target/scala-2.10/classes/pageRankApp$.class[0m
+[0m[[0mdebug[0m] [0m	Page.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jongchinlin/Desktop/My_projects/Spark/page_rank/target/scala-2.10/classes/Page.class[0m
+[0m[[0mdebug[0m] [0m	pageRankApp$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jongchinlin/Desktop/My_projects/Spark/page_rank/target/scala-2.10/classes/pageRankApp$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0mdebug[0m] [0m	pageRankApp.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jongchinlin/Desktop/My_projects/Spark/page_rank/target/scala-2.10/classes/pageRankApp.class[0m
+[0m[[0mdebug[0m] [0m	pageRankApp$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jongchinlin/Desktop/My_projects/Spark/page_rank/target/scala-2.10/classes/pageRankApp$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	pageRankApp$$anonfun$main$1$$anonfun$5$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/jongchinlin/Desktop/My_projects/Spark/page_rank/target/scala-2.10/classes/pageRankApp$$anonfun$main$1$$anonfun$5$$anonfun$apply$1.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

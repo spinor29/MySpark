@@ -1,0 +1,4 @@
+top: right
+right: top, bottom
+left: top
+bottom: top, left
