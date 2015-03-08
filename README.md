@@ -7,3 +7,5 @@ This repo contains some simple algorithms written in Scala on the Spark framewor
 2. Page Rank
 
 3. Anomaly Detection
+
+4. Recommender system
