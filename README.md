@@ -1,5 +1,3 @@
-### Introduction
-
 This repo contains some simple algorithms written in Scala on the Spark framework:
 
 1. Word Count
