@@ -2,7 +2,7 @@ import org.apache.spark.SparkContext
 import org.apache.spark.SparkContext._
 import org.apache.spark.SparkConf
 
-class Page(val source: String, val links: Array[String]) {}
+class Page(val source: String, val links: Array[String]) 
 
 object pageRankApp {
     def parsePage(line: String): Page = {
